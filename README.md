@@ -15,15 +15,18 @@ The Rainbow Multipad is a 16 key, customized hack pad with 3 differnt modes and 
 - Allows you to control the leds on the board, setting the color, brightness, and patterns.
 
 ## Components
-All componets are from the Hackpad kit execept the microcontroller. I switched the microcontroller to a Waveshare ESP32-S3-Zero for the extra pins and bluetooth. 
+All componets are from the Hackpad kit execept the microcontroller. There is a link to transparent switches for more LED light but regular ones work perfectly fine. I switched the microcontroller to a Waveshare ESP32-S3-Zero for the extra pins and bluetooth. 
 
 ### Materials
-- 16x through-hole 1N4148 Diodes
-- 16x MX-Style switches
-- 2x EC11E Rotary encoders (with switch!)
-- 12x SK6812 MINI-E LEDs
-- Waveshare ESP32-S3-Zero
-- Creativity and Imagination  
+
+ Item | Price | Quantity | Link |
+|:-:|:-:|:-:|:-:|
+|Transparent MX-Style Switches |$0.2367|16|https://www.lcsc.com/product-detail/C49234239.html|
+|1N4148 Diodes |$0.0183|16|https://www.lcsc.com/product-detail/C84410.html|
+|EC11E Rotary Encoder|$2.398|2|https://www.lcsc.com/product-detail/C470754.html|
+|SK6812 MINI-E LEDs|$0.081|12|https://www.lcsc.com/product-detail/C5149201.html|
+|Waveshare ESP32-S3 Zero|$5.49|1|https://www.waveshare.com/esp32-s3-zero.htm?sku=25081|
+|Creativity and Imagination|$Free.99|ALL OF IT|Neurolink|
 
 ## PCB
 I made the PCB in EasyEDA and added "Rainbow Multipad" because I usually never edit the silkscreen. 
